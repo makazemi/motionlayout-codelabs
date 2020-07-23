@@ -9,6 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Step8Activity"></activity>
+        <activity android:name=".Step7Activity" />
+        <activity android:name=".Step6Activity" />
+        <activity android:name=".Step5Activity" />
+        <activity android:name=".Step4Activity" />
+        <activity android:name=".Step3Activity" />
+        <activity android:name=".Step2Activity" />
+        <activity android:name=".Step1Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
